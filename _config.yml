@@ -1,8 +1,0 @@
-remote_theme: just-the-docs/just-the-docs
-nav_enabled: false
-aux_links_enabled: false
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "page"
