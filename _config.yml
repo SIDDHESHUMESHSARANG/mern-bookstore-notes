@@ -1,4 +1,4 @@
-remote_theme: just-the-docs/just-the-docs
+remote_theme: daattali/dux
 color_scheme: dark
 nav_enabled: false
 aux_links_enabled: false
