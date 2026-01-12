@@ -1,4 +1,4 @@
-## MERN Bookstore Project <br/>
+### MERN Bookstore Project <br/>
 
 This repository contains practical notes for a MERN stack bookstore project.
 
