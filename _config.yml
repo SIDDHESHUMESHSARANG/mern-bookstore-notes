@@ -1,5 +1,6 @@
-gem "jekyll-remote-theme"
-remote_theme: BDHU/minimalist
+remote_theme: cotes2020/jekyll-theme-chirpy
+plugins:
+  - jekyll-remote-theme
 color_scheme: dark
 nav_enabled: false
 aux_links_enabled: false
