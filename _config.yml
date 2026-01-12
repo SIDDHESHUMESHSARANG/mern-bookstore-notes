@@ -1,4 +1,5 @@
-remote_theme: daattali/dux
+gem "jekyll-remote-theme"
+remote_theme: BDHU/minimalist
 color_scheme: dark
 nav_enabled: false
 aux_links_enabled: false
